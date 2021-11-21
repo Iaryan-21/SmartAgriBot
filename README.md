@@ -1,7 +1,14 @@
 # SmartAgriBot
 
 
-### This is a bot which is able to send data from the sensor to the app via MQTT###
+### This is a bot which is able to send data from the sensor to the app via MQTT
+
+
+BOT 
+
+![WhatsApp Image 2021-11-21 at 17 27 34](https://user-images.githubusercontent.com/86413005/142760818-e465e749-67b3-4079-a704-fb5ec3a08b4b.jpeg)
+
+
 
 APP VISUALS
 ![WhatsApp Image 2021-11-21 at 17 18 57](https://user-images.githubusercontent.com/86413005/142760725-5b753534-b4bf-4e9f-abda-1034cf7512e2.jpeg)
