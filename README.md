@@ -11,7 +11,6 @@ BOT
 
 
 APP VISUALS
-![WhatsApp Image 2021-11-21 at 17 18 57](https://user-images.githubusercontent.com/86413005/142760725-5b753534-b4bf-4e9f-abda-1034cf7512e2.jpeg)
 
 
 ![WhatsApp Image 2021-11-21 at 17 21 44](https://user-images.githubusercontent.com/86413005/142760720-adde4b8e-c588-4e86-80ee-1fe5bf361459.jpeg)
